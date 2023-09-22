@@ -16,3 +16,5 @@ The library is being expanded to cover centralized applications, transmission mo
 
    01_overview
    02_connections
+   03_feeder_model
+   04_busbranch_model
