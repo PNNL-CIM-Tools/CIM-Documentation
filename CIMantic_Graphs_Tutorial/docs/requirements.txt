@@ -1,7 +1,7 @@
 
-nbsphinx >= 0.8.5
+nbsphinx
 pandoc
-jinja2 == 2.11
+jinja2
 IPython
 ipykernel
 sphinx-autobuild
