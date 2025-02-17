@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cim-documentation"
+version = "v0.0.1a"
+description = "documentation"
+authors = ["A. Anderson <19935503+AAndersn@users.noreply.github.com>"]
+packages = [
+
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+
+cim-graph = "^0.1.9a0"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.27.1"
