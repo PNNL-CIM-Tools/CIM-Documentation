@@ -36,3 +36,4 @@ To install CIMantic Graphs, clone the github repository or use pip install: `pip
    01_understanding_uml
    02_identifiers_naming
    03_equipment_containers
+   
