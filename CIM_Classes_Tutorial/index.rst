@@ -38,4 +38,5 @@ To install CIMantic Graphs, clone the github repository or use pip install: `pip
    03_equipment_containers
    05_line_cables
    06_switches
+   10_capacitors
    
