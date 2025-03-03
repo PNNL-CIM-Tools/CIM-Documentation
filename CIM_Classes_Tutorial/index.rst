@@ -41,4 +41,5 @@ To install CIMantic Graphs, clone the github repository or use pip install: `pip
    06_switches
    10_capacitors
    09_inverters
+   11_load_modeling
    
