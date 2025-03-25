@@ -33,6 +33,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
 .. toctree::
    :caption: Databases
    :maxdepth: 2
+
    03_databases/3_1_databases_overview
    03_databases/3_2_env_variables
    03_databases/3_3_blazegraph
@@ -45,6 +46,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
 .. toctree::
    :caption: Graph Models
    :maxdepth: 2
+
    04_graph_models/4_1_graph_models
    04_graph_models/4_2_feeder_model
    04_graph_models/4_3_node_breaker
@@ -54,6 +56,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
 .. toctree::
    :caption: Utils Shortcuts
    :maxdepth: 2
+   
    05_utils/5_1_file_writers
    05_utils/5_2_get_all_data
    05_utils/5_3_mermaid
