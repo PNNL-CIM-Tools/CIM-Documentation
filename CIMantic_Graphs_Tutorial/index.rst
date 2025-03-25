@@ -22,6 +22,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
    1_3_structure
    1_4_contributing
 
+.. toctree::
    :caption: CIM Profiles
    :maxdepth: 2
 
@@ -29,6 +30,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
    2_2_building_profiles
    2_3_using objects
 
+.. toctree::
    :caption: Databases
    :maxdepth: 2
    3_1_databases_overview
@@ -40,6 +42,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
    3_7_gridappsd
    3_8_xml_file_parser
 
+.. toctree::
    :caption: Graph Models
    :maxdepth: 2
    4_1_graph_models
@@ -48,6 +51,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
    4_4_bus_branch
    4_5_distributed_area
 
+.. toctree::
    :caption: Utils Shortcuts
    :maxdepth: 2
    5_1_file_writers
