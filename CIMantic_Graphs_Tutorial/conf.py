@@ -19,11 +19,11 @@
 
 # General information about the project.
 project = 'CIMantic Graphs'
-copyright = '2023, Battelle Memorial Institute, All rights reserved.'
+copyright = '2025, Battelle Memorial Institute, All rights reserved.'
 author = 'Alex Anderson & CIMantic Graphs Team'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1_0_0a'
+release = '0.3.1a0'
 
 
 # -- General configuration ---------------------------------------------------

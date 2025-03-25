@@ -17,7 +17,42 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
    :caption: Overview
    :maxdepth: 2
 
-   01_overview
-   02_connections
-   03_feeder_model
-   04_busbranch_model
+   1_1_overview
+   1_2_installation
+   1_3_structure
+   1_4_contributing
+
+   :caption: CIM Profiles
+   :maxdepth: 2
+
+   2_1_profiles_overview
+   2_2_building_profiles
+   2_3_using objects
+
+   :caption: Databases
+   :maxdepth: 2
+   3_1_databases_overview
+   3_2_env_variables
+   3_3_blazegraph
+   3_4_neo4j
+   3_5_graphdb
+   3_6_mysql
+   3_7_gridappsd
+   3_8_xml_file_parser
+
+   :caption: Graph Models
+   :maxdepth: 2
+   4_1_graph_models
+   4_2_feeder_model
+   4_3_node_breaker
+   4_4_bus_branch
+   4_5_distributed_area
+
+   :caption: Utils Shortcuts
+   :maxdepth: 2
+   5_1_file_writers
+   5_2_get_all_data
+   5_3_mermaid
+
+
+
