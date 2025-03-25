@@ -41,6 +41,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
+    'jupyter_sphinx',
     'myst_parser']
 
 # Add any paths that contain templates here, relative to this directory.
@@ -73,3 +74,27 @@ nbsphinx_execute = 'never'
 
 # Use LuaLaTex
 latex_engine = 'lualatex'
+
+# Configure nbsphinx
+nbsphinx_execute = 'never'  # Set to 'auto', 'always', or 'never' as needed
+
+# Configure nbsphinx to process notebook-level metadata for hiding input cells
+nbsphinx_prolog = """
+{% set docname = env.doc2path(env.docname, base=None) %}
+
+.. raw:: html
+
+    <style>
+        .tag_hide_input .cell_input {
+            display: none;
+        }
+    </style>
+"""
+
+# Additional options for fine-grained control
+nbsphinx_execute_arguments = [
+    "--TagRemovePreprocessor.enabled=True",
+    "--TagRemovePreprocessor.remove_cell_tags={'hide_cell'}", # Hide the entire cell
+    "--TagRemovePreprocessor.remove_input_tags={'hide_input'}", # Hide only the input
+    "--TagRemovePreprocessor.remove_output_tags={'hide_output'}", # Hide only the output
+]
