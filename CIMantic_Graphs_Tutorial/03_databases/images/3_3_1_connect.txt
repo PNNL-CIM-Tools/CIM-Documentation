@@ -6,7 +6,6 @@ sequenceDiagram
 
     note right of User: Initialization
 
-
     User ->>+ ConnectionInterface: BlazegraphConnection()
     ConnectionInterface ->>+ Database: connect()
     Database -->>- ConnectionInterface: SPARQLObject
