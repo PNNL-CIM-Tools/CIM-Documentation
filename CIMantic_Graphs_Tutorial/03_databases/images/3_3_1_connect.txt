@@ -1,15 +1,13 @@
-zenuml
-    title BlazegraphConnection
-    @Actor User
-    @PubSub GraphModel
-    @AzureFunction ConnectionInterface
-    @AzureBackup Blazegraph_DB
+%%{init: {"theme":"base"}}%%
+sequenceDiagram
+    actor User
+    participant ConnectionInterface
+    participant Database
 
-    @Starter(User)
-    // `Initialization`
-    ConnectionInterface.BlazegraphConnection() {
-        Blazegraph_DB.connect() {
-            return SPARQLWrapper
-        }
-        return
-    }
+    note right of User: Initialization
+
+
+    User ->>+ ConnectionInterface: BlazegraphConnection()
+    ConnectionInterface ->>+ Database: connect()
+    Database -->>- ConnectionInterface: SPARQLObject
+    ConnectionInterface -->>- User: connection object
