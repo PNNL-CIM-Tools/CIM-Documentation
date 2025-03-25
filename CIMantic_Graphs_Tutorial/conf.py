@@ -77,18 +77,6 @@ latex_engine = 'lualatex'
 # Configure nbsphinx
 nbsphinx_execute = 'auto'  # Set to 'auto', 'always', or 'never' as needed
 
-# Configure nbsphinx to process notebook-level metadata for hiding input cells
-nbsphinx_prolog = """
-{% set docname = env.doc2path(env.docname, base=None) %}
-
-.. raw:: html
-
-    <style>
-        .tag_hide_input .cell_input {
-            display: none;
-        }
-    </style>
-"""
 
 # Additional options for fine-grained control
 nbsphinx_execute_arguments = [
