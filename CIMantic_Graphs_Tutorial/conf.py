@@ -75,7 +75,7 @@ nbsphinx_execute = 'never'
 latex_engine = 'lualatex'
 
 # Configure nbsphinx
-nbsphinx_execute = 'never'  # Set to 'auto', 'always', or 'never' as needed
+nbsphinx_execute = 'auto'  # Set to 'auto', 'always', or 'never' as needed
 
 # Configure nbsphinx to process notebook-level metadata for hiding input cells
 nbsphinx_prolog = """
