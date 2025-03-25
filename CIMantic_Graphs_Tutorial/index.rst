@@ -28,7 +28,7 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
 
    02_cim_profiles/2_1_profiles_overview
    02_cim_profiles/2_2_building_profiles
-   02_cim_profiles/2_3_using objects
+   02_cim_profiles/2_3_using_objects
 
 .. toctree::
    :caption: Databases
