@@ -8,7 +8,7 @@ classDiagram
         + distributed: bool
         
         + add_to_graph(object)
-        + add_jsonld_to_graph(object)
+        + add_jsonld_to_graph(str)
         + get_all_edges(cim.ClassName)
         + get_object(mRID)
         + get_from_triple(object,attribute)
