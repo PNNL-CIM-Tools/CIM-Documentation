@@ -4,13 +4,28 @@
 CIMantic Graphs Library Documentation
 ================================================
 
-Python library for creating in-memory labeled property graphs for creating, parsing, and editing CIM power system models. It creates Python object instances in memory using a data profile exported from a specified CIM profile (e.g. IEC61970cim18v01 or GridAPPS-D CIM100 RC4_2021).
+CIMantic Graphs is an open-source library for for creating, parsing, and editing CIM power system models using in-memory knowledge graphs to reduce the burden and learning curve associated with using the Common Information Model.
 
-The library is being expanded to cover centralized applications, transmission models, and real-time editing of CIM XML models natively.
+.. image:: ./04_graph_models/images/4_1_property_graph.svg
+
+Key features:
+
+* Single API method to obtain data for any CIM class. No more custom database queries.
+* Single API method to obtain data for EMS node-breaker transmission models, bus-branch planning models, and distribution feeder models.
+* Singe API method for both centralized and distributed architectures.
+* Support for multiple databases and query languages with no changes to upper-level graph data or API calls. Only need to change host/port specified in ConnectionParameters data object.
+* Ability to create CIM models "from scratch".
+* Open-source data engineering tool for management of CIM models.
+* Knowledge graph approach based on semantic understanding of CIM.
+* Object-oriented data structure with enforcement of CIM Schema.
+* Data profiles generated directly from Enterprise Architect UML
+* Support for custom profiles using CIMTool.
+* Support for direct creation / editing / parsing of CIM XML, JSON-LD.
+* API support for centralized/distributed transmission + distribution models.
 
 To install CIMantic Graphs clone the github repository or use pip install: pip install cim-graph
 
-.. image:: CIM_Graph_Logo.png
+.. image:: ./images/CIM_Graph_Logo.png
 
 
 .. toctree::
