@@ -25,8 +25,6 @@ Key features:
 
 To install CIMantic Graphs clone the github repository or use pip install: pip install cim-graph
 
-.. image:: ./images/CIM_Graph_Logo.png
-
 
 .. toctree::
    :caption: Overview
@@ -78,3 +76,4 @@ To install CIMantic Graphs clone the github repository or use pip install: pip i
 
 
 
+.. image:: ./images/CIM_Graph_Logo.png
