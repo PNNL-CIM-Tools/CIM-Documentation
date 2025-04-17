@@ -15,22 +15,23 @@ CIM-Builder is a new python library developed under the Grid Atlas and MAPLE LEA
    :caption: Overview
    :maxdepth: 2
 
-   1_1_overview
-   1_2_installation
-   1_3_structure
-   1_4_contributing
+   01_overview/1_1_overview
+   01_overview/1_2_installation
+   01_overview/1_3_structure
+   01_overview/1_4_contributing
 
 .. toctree::
    :caption: Object Builder
    :maxdepth: 2
 
-   2_1_object_builder
-   2_2_one_terminal_object
-   2_3_two_terminal_object
+   02_object_builder/2_1_object_builder
+   02_object_builder/2_2_one_terminal_object
+   02_object_builder/2_3_two_terminal_object
    
    :caption: Substation Builder
    :maxdepth: 2
 
-   3_1_single_bus
-   3_2_sectionalized_bus
+   03_substation_builder/3_1_single_bus
+   03_substation_builder/3_2_sectionalized_bus
+
 
