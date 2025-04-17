@@ -4,7 +4,7 @@
 CIM-Builder Documentation
 ================================================
 
-CIM-Builder is a new python library developed under the Grid Atlas and MAPLE LEAF projects for creating CIM models "from scratch" with no pre-existing model files. This is a significantly different capability than all other tooling, which requires a source file from which to start, such as OpenDSS, PSSE, or GIS data. The library currently inlcudes three main functionalities:
+CIM-Builder is a new python library developed by Pacific Northwest National Laboratory for creating CIM models "from scratch" with no pre-existing model files. This is a significantly different capability than all other tooling, which requires a source file from which to start, such as OpenDSS, PSSE, or GIS data. The library currently inlcudes three main functionalities:
 
 * automatic creation of new node-breaker substations in CIM based on interactive API calls.
 * automatic insertion of existing distribution feeders in CIM into new node-breaker substations.
@@ -28,10 +28,11 @@ CIM-Builder is a new python library developed under the Grid Atlas and MAPLE LEA
    02_object_builder/2_2_one_terminal_object
    02_object_builder/2_3_two_terminal_object
    
+.. toctree::
    :caption: Substation Builder
    :maxdepth: 2
 
    03_substation_builder/3_1_single_bus
    03_substation_builder/3_2_sectionalized_bus
-
+   
 
