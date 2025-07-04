@@ -4,7 +4,7 @@
 CIMantic Graphs Library Documentation
 ================================================
 
-CIMantic Graphs is an open-source library for for creating, parsing, and editing CIM power system models using in-memory knowledge graphs to reduce the burden and learning curve associated with using the Common Information Model.
+CIMantic Graphs is an open-source library for creating, parsing, and editing CIM power system models using in-memory knowledge graphs to reduce the burden and learning curve associated with using the Common Information Model.
 
 .. image:: ./04_graph_models/images/4_1_property_graph.svg
 

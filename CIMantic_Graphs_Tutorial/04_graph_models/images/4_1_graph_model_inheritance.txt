@@ -12,6 +12,8 @@ classDiagram
         + get_all_edges(cim.ClassName)
         + get_object(mRID)
         + get_from_triple(object,attribute)
+        + first(cim.ClassName)
+        + next(cim.ClassName)
         + pprint(cim.ClassName)
         + upload()
     }
