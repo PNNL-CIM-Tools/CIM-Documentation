@@ -1,18 +1,23 @@
-[tool.poetry]
+[project]
 name = "cim-documentation"
-version = "v0.0.1a"
+version = "0.0.1a"
 description = "documentation"
-authors = ["A. Anderson <19935503+AAndersn@users.noreply.github.com>"]
-packages = [
-
+authors = [
+    {name = "A. Anderson", email = "19935503+AAndersn@users.noreply.github.com"},
 ]
 readme = "README.md"
+requires-python = ">=3.10,<4.0"
 
-[tool.poetry.dependencies]
-python = ">=3.10,<4.0"
+dependencies = [
+    "cim-graph>=0.5.0a2",
+    "pint>=0.24.4",
+]
 
-cim-graph = "^0.4.1a3"
-pint = "^0.24.4"
+[dependency-groups]
+dev = [
+    "ipykernel>=6.27.1",
+    "nbconvert>=7.16.0",
+]
 
-[tool.poetry.group.dev.dependencies]
-ipykernel = "^6.27.1"
+[tool.uv.sources]
+cim-graph = {path = "/home/ande188/CIM-Graph", editable = true}

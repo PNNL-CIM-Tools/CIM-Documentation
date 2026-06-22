@@ -1717,7 +1717,7 @@
         },
         {
             "@id": "urn:uuid:15EEE173-CC90-4888-B9B8-43916D56890C",
-            "@type": "cim:PhotovoltaicUnit",
+            "@type": "cim:PhotoVoltaicUnit",
             "cim:PowerElectronicsUnit.maxP": "300000.0",
             "cim:PowerElectronicsUnit.minP": "60000.0",
             "cim:PowerElectronicsUnit.PowerElectronicsConnection": {
@@ -1733,7 +1733,7 @@
         },
         {
             "@id": "urn:uuid:1E58BE0E-7D37-46A5-A8A2-04B56C78E50A",
-            "@type": "cim:PhotovoltaicUnit",
+            "@type": "cim:PhotoVoltaicUnit",
             "cim:PowerElectronicsUnit.maxP": "5000.0",
             "cim:PowerElectronicsUnit.minP": "1000.0",
             "cim:PowerElectronicsUnit.PowerElectronicsConnection": {

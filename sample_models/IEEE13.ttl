@@ -2162,7 +2162,7 @@
     cim:IdentifiedObject.name "house" ;
     cim:TopologicalNode.TopologicalIsland <urn:uuid:DD87C83F-2A07-49AB-AA0A-BB1E36C3BAED> .
 
-<urn:uuid:15EEE173-CC90-4888-B9B8-43916D56890C> a cim:PhotovoltaicUnit ;
+<urn:uuid:15EEE173-CC90-4888-B9B8-43916D56890C> a cim:PhotoVoltaicUnit ;
     cim:IdentifiedObject.mRID "15EEE173-CC90-4888-B9B8-43916D56890C" ;
     cim:IdentifiedObject.name "school" ;
     cim:PowerElectronicsUnit.maxP "300000" ;
@@ -2186,7 +2186,7 @@
     cim:TransformerTankEnd.TransformerTank <urn:uuid:E2E0FC64-8D45-4C55-BDB9-EAB827A46FBC> ;
     cim:TransformerTankEnd.orderedPhases cim:OrderedPhaseCodeKind.CN .
 
-<urn:uuid:1E58BE0E-7D37-46A5-A8A2-04B56C78E50A> a cim:PhotovoltaicUnit ;
+<urn:uuid:1E58BE0E-7D37-46A5-A8A2-04B56C78E50A> a cim:PhotoVoltaicUnit ;
     cim:IdentifiedObject.mRID "1E58BE0E-7D37-46A5-A8A2-04B56C78E50A" ;
     cim:IdentifiedObject.name "house" ;
     cim:PowerElectronicsUnit.maxP "5000" ;

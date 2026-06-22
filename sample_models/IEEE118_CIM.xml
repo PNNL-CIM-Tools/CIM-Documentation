@@ -18763,12 +18763,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:4AAD3424-C0CB-4D12-818B-37D952397D88">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:4AAD3424-C0CB-4D12-818B-37D952397D88">
     <cim:IdentifiedObject.mRID>4AAD3424-C0CB-4D12-818B-37D952397D88</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>126_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>53600000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:F2560595-165A-4563-BFE6-6910554009D9">
     <cim:IdentifiedObject.mRID>F2560595-165A-4563-BFE6-6910554009D9</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>126_S_REPCA</cim:IdentifiedObject.name>
@@ -18900,12 +18900,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:12533CC9-7380-4F08-B99E-96D7045384D5">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:12533CC9-7380-4F08-B99E-96D7045384D5">
     <cim:IdentifiedObject.mRID>12533CC9-7380-4F08-B99E-96D7045384D5</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>128_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>73200000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:EEFDAE82-66C3-4716-8427-B3769A786D2A">
     <cim:IdentifiedObject.mRID>EEFDAE82-66C3-4716-8427-B3769A786D2A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>128_S_REPCA</cim:IdentifiedObject.name>
@@ -19037,12 +19037,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:5C2F5B75-28DE-4EE2-B16E-F497D2E84563">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:5C2F5B75-28DE-4EE2-B16E-F497D2E84563">
     <cim:IdentifiedObject.mRID>5C2F5B75-28DE-4EE2-B16E-F497D2E84563</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>130_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>49600000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:A16AD7AC-DF59-4C57-9DB4-D5A71797CFB9">
     <cim:IdentifiedObject.mRID>A16AD7AC-DF59-4C57-9DB4-D5A71797CFB9</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>130_S_REPCA</cim:IdentifiedObject.name>
@@ -19174,12 +19174,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:92C6E30B-D422-4C16-B67C-CC914B9FA4AE">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:92C6E30B-D422-4C16-B67C-CC914B9FA4AE">
     <cim:IdentifiedObject.mRID>92C6E30B-D422-4C16-B67C-CC914B9FA4AE</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>140_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>300000000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:50A286C6-9F21-4C09-A55A-FFBF141B9FE3">
     <cim:IdentifiedObject.mRID>50A286C6-9F21-4C09-A55A-FFBF141B9FE3</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>140_S_REPCA</cim:IdentifiedObject.name>
@@ -19311,12 +19311,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:D0412613-6EAC-47E1-AEBA-A844AB3D1316">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:D0412613-6EAC-47E1-AEBA-A844AB3D1316">
     <cim:IdentifiedObject.mRID>D0412613-6EAC-47E1-AEBA-A844AB3D1316</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>149_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>105600000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:A460972E-829B-4711-817B-B08031F9E772">
     <cim:IdentifiedObject.mRID>A460972E-829B-4711-817B-B08031F9E772</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>149_S_REPCA</cim:IdentifiedObject.name>
@@ -19448,12 +19448,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:E75B9E43-F13D-4973-944E-9FEBCE74740E">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:E75B9E43-F13D-4973-944E-9FEBCE74740E">
     <cim:IdentifiedObject.mRID>E75B9E43-F13D-4973-944E-9FEBCE74740E</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>151_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>12000000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:E063A3FE-DC24-4950-9E12-601C313BB846">
     <cim:IdentifiedObject.mRID>E063A3FE-DC24-4950-9E12-601C313BB846</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>151_S_REPCA</cim:IdentifiedObject.name>
@@ -19585,12 +19585,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:1F593261-AA79-43A1-9ABC-70C703D6C08C">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:1F593261-AA79-43A1-9ABC-70C703D6C08C">
     <cim:IdentifiedObject.mRID>1F593261-AA79-43A1-9ABC-70C703D6C08C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>159_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>49600000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:DDC5FC70-5A80-4044-812E-E0E087A46383">
     <cim:IdentifiedObject.mRID>DDC5FC70-5A80-4044-812E-E0E087A46383</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>159_S_REPCA</cim:IdentifiedObject.name>
@@ -19722,12 +19722,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:687E3CA3-9357-43E8-8278-D280E80F4BC6">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:687E3CA3-9357-43E8-8278-D280E80F4BC6">
     <cim:IdentifiedObject.mRID>687E3CA3-9357-43E8-8278-D280E80F4BC6</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>165_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>10000000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:2E12EAA1-1EDC-4420-813E-FA823B028DB4">
     <cim:IdentifiedObject.mRID>2E12EAA1-1EDC-4420-813E-FA823B028DB4</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>165_S_REPCA</cim:IdentifiedObject.name>
@@ -19859,12 +19859,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:26AE48B0-132A-4153-9B5D-A4CD6A0ADA9B">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:26AE48B0-132A-4153-9B5D-A4CD6A0ADA9B">
     <cim:IdentifiedObject.mRID>26AE48B0-132A-4153-9B5D-A4CD6A0ADA9B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>175_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>207600000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:A50B5B79-128F-4D59-A4C4-60AE73474BC3">
     <cim:IdentifiedObject.mRID>A50B5B79-128F-4D59-A4C4-60AE73474BC3</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>175_S_REPCA</cim:IdentifiedObject.name>
@@ -19996,12 +19996,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:80AEC378-5E13-49FE-953F-C635C7F9BA0F">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:80AEC378-5E13-49FE-953F-C635C7F9BA0F">
     <cim:IdentifiedObject.mRID>80AEC378-5E13-49FE-953F-C635C7F9BA0F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>179_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>41600000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:DFF6A643-CEB4-4EDD-975E-E0C3440A4154">
     <cim:IdentifiedObject.mRID>DFF6A643-CEB4-4EDD-975E-E0C3440A4154</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>179_S_REPCA</cim:IdentifiedObject.name>
@@ -20133,12 +20133,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:BDDA1B8A-6B72-488E-8512-DEAFA923B099">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:BDDA1B8A-6B72-488E-8512-DEAFA923B099">
     <cim:IdentifiedObject.mRID>BDDA1B8A-6B72-488E-8512-DEAFA923B099</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>183_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>186400000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:DE77B7A8-823B-486B-B084-088D152A7B4B">
     <cim:IdentifiedObject.mRID>DE77B7A8-823B-486B-B084-088D152A7B4B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>183_S_REPCA</cim:IdentifiedObject.name>
@@ -20270,12 +20270,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:E4BE56EE-3573-4103-8D0A-BAAF36839303">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:E4BE56EE-3573-4103-8D0A-BAAF36839303">
     <cim:IdentifiedObject.mRID>E4BE56EE-3573-4103-8D0A-BAAF36839303</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>185_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>108800000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:0F89BF6C-1AE8-4088-96ED-EACD26E41253">
     <cim:IdentifiedObject.mRID>0F89BF6C-1AE8-4088-96ED-EACD26E41253</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>185_S_REPCA</cim:IdentifiedObject.name>
@@ -20407,12 +20407,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:0DDD697D-9773-4BD1-9482-66BDA1EF9DAD">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:0DDD697D-9773-4BD1-9482-66BDA1EF9DAD">
     <cim:IdentifiedObject.mRID>0DDD697D-9773-4BD1-9482-66BDA1EF9DAD</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>188_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>101200000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:A7145DEE-9616-48A2-9DC2-A83750495390">
     <cim:IdentifiedObject.mRID>A7145DEE-9616-48A2-9DC2-A83750495390</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>188_S_REPCA</cim:IdentifiedObject.name>
@@ -20544,12 +20544,12 @@
     <cim:PowerElectronicsConnection.maxQ>0.0</cim:PowerElectronicsConnection.maxQ>
     <cim:PowerElectronicsConnection.minQ>0.0</cim:PowerElectronicsConnection.minQ>
 </cim:PowerElectronicsConnection>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:2766E4A0-C303-4066-948C-FB5C17B41CAF">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:2766E4A0-C303-4066-948C-FB5C17B41CAF">
     <cim:IdentifiedObject.mRID>2766E4A0-C303-4066-948C-FB5C17B41CAF</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>191_S_Unit</cim:IdentifiedObject.name>
     <cim:PowerElectronicsUnit.maxP>65200000.0</cim:PowerElectronicsUnit.maxP>
     <cim:PowerElectronicsUnit.minP>0</cim:PowerElectronicsUnit.minP>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:WeccREPCA rdf:about="urn:uuid:2DEBF345-AB4C-4622-A636-97E081D8D152">
     <cim:IdentifiedObject.mRID>2DEBF345-AB4C-4622-A636-97E081D8D152</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>191_S_REPCA</cim:IdentifiedObject.name>

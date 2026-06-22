@@ -827,7 +827,7 @@
   <cim:IdentifiedObject.mRID>DD87C83F-2A07-49AB-AA0A-BB1E36C3BAED</cim:IdentifiedObject.mRID>
   <cim:IdentifiedObject.name>ieee13nodeckt_Island</cim:IdentifiedObject.name>
 </cim:TopologicalIsland>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:15EEE173-CC90-4888-B9B8-43916D56890C">
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:15EEE173-CC90-4888-B9B8-43916D56890C">
   <cim:PowerElectronicsUnit.maxP>300000.0</cim:PowerElectronicsUnit.maxP>
   <cim:PowerElectronicsUnit.minP>60000.0</cim:PowerElectronicsUnit.minP>
   <cim:PowerElectronicsUnit.PowerElectronicsConnection rdf:resource="urn:uuid:D2E930A7-B136-4ACA-A996-8DB5C60AADF3"/>
@@ -835,8 +835,8 @@
   <cim:PowerSystemResource.Location rdf:resource="urn:uuid:83FA529E-9B45-4022-BD00-3E9867EFD55D"/>
   <cim:IdentifiedObject.mRID>15EEE173-CC90-4888-B9B8-43916D56890C</cim:IdentifiedObject.mRID>
   <cim:IdentifiedObject.name>school</cim:IdentifiedObject.name>
-</cim:PhotovoltaicUnit>
-<cim:PhotovoltaicUnit rdf:about="urn:uuid:1E58BE0E-7D37-46A5-A8A2-04B56C78E50A">
+</cim:PhotoVoltaicUnit>
+<cim:PhotoVoltaicUnit rdf:about="urn:uuid:1E58BE0E-7D37-46A5-A8A2-04B56C78E50A">
   <cim:PowerElectronicsUnit.maxP>5000.0</cim:PowerElectronicsUnit.maxP>
   <cim:PowerElectronicsUnit.minP>1000.0</cim:PowerElectronicsUnit.minP>
   <cim:PowerElectronicsUnit.PowerElectronicsConnection rdf:resource="urn:uuid:CEC0FC3A-0FD1-4F1C-9C51-7D9BEF4D8222"/>
@@ -844,7 +844,7 @@
   <cim:PowerSystemResource.Location rdf:resource="urn:uuid:EF80FC47-029B-401F-9E63-45BE7AB0530B"/>
   <cim:IdentifiedObject.mRID>1E58BE0E-7D37-46A5-A8A2-04B56C78E50A</cim:IdentifiedObject.mRID>
   <cim:IdentifiedObject.name>house</cim:IdentifiedObject.name>
-</cim:PhotovoltaicUnit>
+</cim:PhotoVoltaicUnit>
 <cim:PowerElectronicsConnection rdf:about="urn:uuid:D2E930A7-B136-4ACA-A996-8DB5C60AADF3">
   <cim:PowerElectronicsConnection.controlMode rdf:resource="http://iec.ch/TC57/CIM100#ConverterControlModeKind.constantPowerFactor"/>
   <cim:PowerElectronicsConnection.maxIFault>1.1111111</cim:PowerElectronicsConnection.maxIFault>
